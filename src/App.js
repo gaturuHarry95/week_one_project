@@ -1,6 +1,5 @@
-import './index.css'
-import './App.css';
-import Card from './Components/Card';
+
+import Card from "./components/Card";
 import sedans from "./images/icon-sedans.svg"
 import suvs from "./images/icon-suvs.svg"
 import luxury from  "./images/icon-luxury.svg"
